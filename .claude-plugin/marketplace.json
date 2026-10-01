@@ -1,0 +1,14 @@
+{
+  "name": "overlap",
+  "owner": { "name": "Overlap" },
+  "metadata": { "description": "Overlap: your agents' context, shared with your team's agents.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "overlap",
+      "description": "Connect this computer to your Overlap team: automatic context backup, questions between teammates' agents, and your agent map.",
+      "version": "1.0.0",
+      "author": { "name": "Overlap" },
+      "source": "./plugins/overlap"
+    }
+  ]
+}

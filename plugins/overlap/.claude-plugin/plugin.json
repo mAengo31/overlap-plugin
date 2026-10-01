@@ -1,0 +1,6 @@
+{
+  "name": "overlap",
+  "version": "1.0.0",
+  "description": "Connect this computer to your Overlap team: automatic context backup, questions between teammates' agents, and your agent map.",
+  "author": { "name": "Overlap" }
+}
